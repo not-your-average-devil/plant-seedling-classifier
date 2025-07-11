@@ -65,7 +65,6 @@ Your model learns to detect species like:
 ## 🤝 Credits
 
 - Dataset: [Kaggle Plant Seedlings Dataset](https://www.kaggle.com/c/plant-seedlings-classification/data)  
-- Built with ❤️ by [Your Name Here]
 
 ---
 
